@@ -33,6 +33,10 @@ a:active{
     display: flex;
 }
 
+h1{
+    font-size: 30px;
+}
+
 h1, li, h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
